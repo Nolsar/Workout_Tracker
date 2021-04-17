@@ -1,5 +1,4 @@
 # Workout_Tracker
-# Workout-Tracker
 ("https://mysterious-bastion-79211.herokuapp.com/")
 
 ## Description
@@ -11,9 +10,6 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 * [Installation](#installation)
 * [Usage](#usage)
     * [Screenshots](#screenshots)
-    * [Snippets](#snippets)
-* [Credits](#credits)
-* [License](#license)
 
 ## Installation
 
@@ -37,3 +33,5 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 3. Last Week's Summary
 
 ![statspage](https://github.com/Nolsar/Workout_Tracker/blob/main/Assets/dashboard.jpg)
+
+
