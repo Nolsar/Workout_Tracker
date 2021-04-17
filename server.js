@@ -13,7 +13,7 @@ app.use(logger("dev"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use(express.static("public"));
+app.use(express.static("Develop/public"));
 
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
